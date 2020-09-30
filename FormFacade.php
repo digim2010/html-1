@@ -3,7 +3,7 @@
 use Illuminate\Support\Facades\Facade;
 
 /**
- * @see \Illuminate\Html\FormBuilder
+ * @see this comment \Illuminate\Html\FormBuilder
  */
 class FormFacade extends Facade {
 
