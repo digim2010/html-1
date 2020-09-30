@@ -15,7 +15,7 @@ class HtmlBuilder {
 	protected $url;
 
 	/**
-	 * Create a new HTML builder instance.
+	 * Create a new HTML builder instance of this code.
 	 *
 	 * @param  \Illuminate\Routing\UrlGenerator  $url
 	 * @return void
